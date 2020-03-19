@@ -15,12 +15,7 @@ Crossover is applied by exchanging half of genes from two parents.
 Mutation is applied by randomly changing the values of randomly selected 
 predefined percent of genes from the parents chromosome.
 
-This project is implemented using Python 3.5 by Ahmed F. Gad.
-Contact info:
-ahmed.fawzy@ci.menofia.edu.eg
-https://www.linkedin.com/in/ahmedfgad/
 
-In 1 May 2019, I wrote a tutorial discussing this project. The tutorial is titled "Reproducing Images using a Genetic Algorithm with Python" which is published at Heartbeat by Fritz at this link: https://heartbeat.fritz.ai/reproducing-images-using-a-genetic-algorithm-with-python-91fc701ff84
 
 Here is an example of input image and how it is evolved after some iterations.
 
@@ -56,11 +51,3 @@ Here is an example of input image and how it is evolved after some iterations.
 
 ![solution_15000](https://user-images.githubusercontent.com/16560492/36948877-96df3534-1fe9-11e8-8722-697d1047c1ff.png)
 
-## For Contacting thr Author
-* E-mail: ahmed.f.gad@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/ahmedfgad)
-* [Amazon Author Page](https://amazon.com/author/ahmedgad)
-* [Hearbeat](https://heartbeat.fritz.ai/@ahmedfgad)
-* [KDnuggets](https://kdnuggets.com/author/ahmed-gad)
-* [TowardsDataScience](https://towardsdatascience.com/@ahmedfgad)
-* [GitHub](https://github.com/ahmedfgad)
